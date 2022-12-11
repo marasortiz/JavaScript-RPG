@@ -1,0 +1,44 @@
+1. Crear variable, dar valores de inicio - 3:19:01
+2. ; opcionales - 3:19:56
+3. Nombres de variables (lowerCamelCase) - 3:20:28
+4. Diferencias entre VAR, LET, CONST (mejor let) - 3:21:00
+5. Strings, Array - 3:22:33
+6. Referencias a HTML (querrySelector) - 3:24:25
+7. Comentarios - 3:27:00
+8. onclick, innerText - 3:28:30
+9. funcion - 3:30:05
+10. console.log - 3:31:02
+11. Refactoring - 3:32:45
+12. Actualizar texto y botones - 3:35:00 +-
+13. Mostrar comillas al actualizar texto - 3:19:26
+14. Pasar parametros a funcion - 3:40:43
+15. Objetos y propiedades - 3:40:56
+16. Pasar datos a Funciones - 3:45:34
+17. Compound assignment (sumas, restas...) - 3:52:43
+18. Bucles IF - 3:54:20
+19. let - 4:00:26
+20. Variables en un string - 4:01:08
+21. Agregar objetos a un array (.push) - 4:02:22
+22. Nested IF - 4:04:06
+23. .length - 4:05:05
+24. Scope de let - 4:07:18
+25. .shift() - 4:08:03
+26. Monstrar / Cambiar CSS - .style - 4:12:37
+27. Math.floor(Math.random()) - 4:15:00
+28. else if - 4:16:34
+29. update - 4:18:15
+30. === (Comparativa) - 4:22:09
+31. Operador condicional (Ternary) - 4:23:07
+32. return - 4:31:18
+33. Math.random() > .2 (Devuelve T/F) - 4:33:25
+34. OR (||) - 4:34:50 
+35. .pop - 4:36:28
+36. AND (&&) - 4:37:31
+37. !== - 4:37:31
+38. while - 4:41:22
+39. Math.floor(Math.random()* 11) (1-10) - 4:42:53
+40. \n (nueva linea) - 4:43:42
+41. for - 4:44:10
+42. indexOf - 4:47:44
+
+4:52:02
